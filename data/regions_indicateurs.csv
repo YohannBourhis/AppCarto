@@ -1,0 +1,267 @@
+annee,REGION,indicateur,valeur
+2016,OCCITANIE,part_logements_sociaux_en_pourcentage,12.59
+2018,OCCITANIE,part_logements_sociaux_en_pourcentage,13.23
+2017,OCCITANIE,part_logements_sociaux_en_pourcentage,12.9
+2016,NOUVELLE AQUITAINE,part_logements_sociaux_en_pourcentage,12.74
+2018,NOUVELLE AQUITAINE,part_logements_sociaux_en_pourcentage,13.32
+2017,NOUVELLE AQUITAINE,part_logements_sociaux_en_pourcentage,12.95
+2016,AUVERGNE RHONE ALPES,part_logements_sociaux_en_pourcentage,16.87
+2017,AUVERGNE RHONE ALPES,part_logements_sociaux_en_pourcentage,17.28
+2018,AUVERGNE RHONE ALPES,part_logements_sociaux_en_pourcentage,17.69
+2016,PROVENCE ALPES COTE D AZUR,part_logements_sociaux_en_pourcentage,13.75
+2018,PROVENCE ALPES COTE D AZUR,part_logements_sociaux_en_pourcentage,14.41
+2017,PROVENCE ALPES COTE D AZUR,part_logements_sociaux_en_pourcentage,14.01
+2016,PAYS DE LA LOIRE,part_logements_sociaux_en_pourcentage,13.73
+2018,PAYS DE LA LOIRE,part_logements_sociaux_en_pourcentage,14.69
+2017,PAYS DE LA LOIRE,part_logements_sociaux_en_pourcentage,14.32
+2016,HAUTS DE FRANCE,part_logements_sociaux_en_pourcentage,26.1
+2018,HAUTS DE FRANCE,part_logements_sociaux_en_pourcentage,26.65
+2017,HAUTS DE FRANCE,part_logements_sociaux_en_pourcentage,26.32
+2016,CENTRE VAL DE LOIRE,part_logements_sociaux_en_pourcentage,18.65
+2018,CENTRE VAL DE LOIRE,part_logements_sociaux_en_pourcentage,18.9
+2017,CENTRE VAL DE LOIRE,part_logements_sociaux_en_pourcentage,18.84
+2016,NORMANDIE,part_logements_sociaux_en_pourcentage,23.95
+2018,NORMANDIE,part_logements_sociaux_en_pourcentage,24.99
+2017,NORMANDIE,part_logements_sociaux_en_pourcentage,24.82
+2016,GRAND EST,part_logements_sociaux_en_pourcentage,22.04
+2018,GRAND EST,part_logements_sociaux_en_pourcentage,22.47
+2017,GRAND EST,part_logements_sociaux_en_pourcentage,22.19
+2016,ILE DE FRANCE,part_logements_sociaux_en_pourcentage,26.25
+2018,ILE DE FRANCE,part_logements_sociaux_en_pourcentage,27.06
+2017,ILE DE FRANCE,part_logements_sociaux_en_pourcentage,26.63
+2016,BRETAGNE,part_logements_sociaux_en_pourcentage,11.82
+2018,BRETAGNE,part_logements_sociaux_en_pourcentage,12.34
+2017,BRETAGNE,part_logements_sociaux_en_pourcentage,12.08
+2016,BOURGOGNE FRANCHE COMTE,part_logements_sociaux_en_pourcentage,19.69
+2018,BOURGOGNE FRANCHE COMTE,part_logements_sociaux_en_pourcentage,19.81
+2017,BOURGOGNE FRANCHE COMTE,part_logements_sociaux_en_pourcentage,19.78
+2016,CORSE,part_logements_sociaux_en_pourcentage,15.26
+2018,CORSE,part_logements_sociaux_en_pourcentage,16.23
+2016,OCCITANIE,surface_habitable_moyenne_en_m2,67.36
+2018,OCCITANIE,surface_habitable_moyenne_en_m2,66.94
+2017,OCCITANIE,surface_habitable_moyenne_en_m2,67.18
+2016,NOUVELLE AQUITAINE,surface_habitable_moyenne_en_m2,68.07
+2018,NOUVELLE AQUITAINE,surface_habitable_moyenne_en_m2,67.32
+2017,NOUVELLE AQUITAINE,surface_habitable_moyenne_en_m2,67.86
+2016,AUVERGNE RHONE ALPES,surface_habitable_moyenne_en_m2,66.9
+2017,AUVERGNE RHONE ALPES,surface_habitable_moyenne_en_m2,66.77
+2018,AUVERGNE RHONE ALPES,surface_habitable_moyenne_en_m2,66.28
+2016,PROVENCE ALPES COTE D AZUR,surface_habitable_moyenne_en_m2,66.57
+2018,PROVENCE ALPES COTE D AZUR,surface_habitable_moyenne_en_m2,66.03
+2017,PROVENCE ALPES COTE D AZUR,surface_habitable_moyenne_en_m2,66.52
+2016,PAYS DE LA LOIRE,surface_habitable_moyenne_en_m2,67.23
+2018,PAYS DE LA LOIRE,surface_habitable_moyenne_en_m2,66.91
+2017,PAYS DE LA LOIRE,surface_habitable_moyenne_en_m2,67.27
+2016,HAUTS DE FRANCE,surface_habitable_moyenne_en_m2,68.97
+2018,HAUTS DE FRANCE,surface_habitable_moyenne_en_m2,68.63
+2017,HAUTS DE FRANCE,surface_habitable_moyenne_en_m2,68.94
+2016,CENTRE VAL DE LOIRE,surface_habitable_moyenne_en_m2,67.21
+2018,CENTRE VAL DE LOIRE,surface_habitable_moyenne_en_m2,67.19
+2017,CENTRE VAL DE LOIRE,surface_habitable_moyenne_en_m2,67.21
+2016,NORMANDIE,surface_habitable_moyenne_en_m2,68.24
+2018,NORMANDIE,surface_habitable_moyenne_en_m2,68.28
+2017,NORMANDIE,surface_habitable_moyenne_en_m2,68.31
+2016,GRAND EST,surface_habitable_moyenne_en_m2,69.19
+2018,GRAND EST,surface_habitable_moyenne_en_m2,68.68
+2017,GRAND EST,surface_habitable_moyenne_en_m2,69.15
+2016,ILE DE FRANCE,surface_habitable_moyenne_en_m2,62.5
+2018,ILE DE FRANCE,surface_habitable_moyenne_en_m2,61.98
+2017,ILE DE FRANCE,surface_habitable_moyenne_en_m2,62.24
+2016,BRETAGNE,surface_habitable_moyenne_en_m2,65.5
+2018,BRETAGNE,surface_habitable_moyenne_en_m2,65.13
+2017,BRETAGNE,surface_habitable_moyenne_en_m2,65.47
+2016,BOURGOGNE FRANCHE COMTE,surface_habitable_moyenne_en_m2,66.64
+2018,BOURGOGNE FRANCHE COMTE,surface_habitable_moyenne_en_m2,66.64
+2017,BOURGOGNE FRANCHE COMTE,surface_habitable_moyenne_en_m2,66.64
+2016,CORSE,surface_habitable_moyenne_en_m2,70.22
+2018,CORSE,surface_habitable_moyenne_en_m2,69.49
+2016,OCCITANIE,nombre_de_pieces_moyen,3.21
+2018,OCCITANIE,nombre_de_pieces_moyen,3.19
+2017,OCCITANIE,nombre_de_pieces_moyen,3.2
+2016,NOUVELLE AQUITAINE,nombre_de_pieces_moyen,3.22
+2018,NOUVELLE AQUITAINE,nombre_de_pieces_moyen,3.15
+2017,NOUVELLE AQUITAINE,nombre_de_pieces_moyen,3.18
+2016,AUVERGNE RHONE ALPES,nombre_de_pieces_moyen,3.17
+2017,AUVERGNE RHONE ALPES,nombre_de_pieces_moyen,3.15
+2018,AUVERGNE RHONE ALPES,nombre_de_pieces_moyen,3.14
+2016,PROVENCE ALPES COTE D AZUR,nombre_de_pieces_moyen,3.24
+2018,PROVENCE ALPES COTE D AZUR,nombre_de_pieces_moyen,3.21
+2017,PROVENCE ALPES COTE D AZUR,nombre_de_pieces_moyen,3.24
+2016,PAYS DE LA LOIRE,nombre_de_pieces_moyen,3.13
+2018,PAYS DE LA LOIRE,nombre_de_pieces_moyen,3.11
+2017,PAYS DE LA LOIRE,nombre_de_pieces_moyen,3.13
+2016,HAUTS DE FRANCE,nombre_de_pieces_moyen,3.3
+2018,HAUTS DE FRANCE,nombre_de_pieces_moyen,3.26
+2017,HAUTS DE FRANCE,nombre_de_pieces_moyen,3.29
+2016,CENTRE VAL DE LOIRE,nombre_de_pieces_moyen,3.19
+2018,CENTRE VAL DE LOIRE,nombre_de_pieces_moyen,3.18
+2017,CENTRE VAL DE LOIRE,nombre_de_pieces_moyen,3.19
+2016,NORMANDIE,nombre_de_pieces_moyen,3.27
+2018,NORMANDIE,nombre_de_pieces_moyen,3.28
+2017,NORMANDIE,nombre_de_pieces_moyen,3.28
+2016,GRAND EST,nombre_de_pieces_moyen,3.29
+2018,GRAND EST,nombre_de_pieces_moyen,3.27
+2017,GRAND EST,nombre_de_pieces_moyen,3.3
+2016,ILE DE FRANCE,nombre_de_pieces_moyen,3.01
+2018,ILE DE FRANCE,nombre_de_pieces_moyen,2.99
+2017,ILE DE FRANCE,nombre_de_pieces_moyen,3
+2016,BRETAGNE,nombre_de_pieces_moyen,3.07
+2018,BRETAGNE,nombre_de_pieces_moyen,3.05
+2017,BRETAGNE,nombre_de_pieces_moyen,3.06
+2016,BOURGOGNE FRANCHE COMTE,nombre_de_pieces_moyen,3.21
+2018,BOURGOGNE FRANCHE COMTE,nombre_de_pieces_moyen,3.21
+2017,BOURGOGNE FRANCHE COMTE,nombre_de_pieces_moyen,3.21
+2016,CORSE,nombre_de_pieces_moyen,3.42
+2018,CORSE,nombre_de_pieces_moyen,3.38
+2016,OCCITANIE,moyenne_d_annee_de_construction,1985
+2018,OCCITANIE,moyenne_d_annee_de_construction,1987
+2017,OCCITANIE,moyenne_d_annee_de_construction,1987
+2016,NOUVELLE AQUITAINE,moyenne_d_annee_de_construction,1984
+2018,NOUVELLE AQUITAINE,moyenne_d_annee_de_construction,1986
+2017,NOUVELLE AQUITAINE,moyenne_d_annee_de_construction,1986
+2016,AUVERGNE RHONE ALPES,moyenne_d_annee_de_construction,1982
+2017,AUVERGNE RHONE ALPES,moyenne_d_annee_de_construction,1983
+2018,AUVERGNE RHONE ALPES,moyenne_d_annee_de_construction,1983
+2016,PROVENCE ALPES COTE D AZUR,moyenne_d_annee_de_construction,1982
+2018,PROVENCE ALPES COTE D AZUR,moyenne_d_annee_de_construction,1983
+2017,PROVENCE ALPES COTE D AZUR,moyenne_d_annee_de_construction,1982
+2016,PAYS DE LA LOIRE,moyenne_d_annee_de_construction,1985
+2018,PAYS DE LA LOIRE,moyenne_d_annee_de_construction,1986
+2017,PAYS DE LA LOIRE,moyenne_d_annee_de_construction,1986
+2016,HAUTS DE FRANCE,moyenne_d_annee_de_construction,1975
+2018,HAUTS DE FRANCE,moyenne_d_annee_de_construction,1977
+2017,HAUTS DE FRANCE,moyenne_d_annee_de_construction,1972
+2016,CENTRE VAL DE LOIRE,moyenne_d_annee_de_construction,1982
+2018,CENTRE VAL DE LOIRE,moyenne_d_annee_de_construction,1984
+2017,CENTRE VAL DE LOIRE,moyenne_d_annee_de_construction,1984
+2016,NORMANDIE,moyenne_d_annee_de_construction,1980
+2018,NORMANDIE,moyenne_d_annee_de_construction,1982
+2017,NORMANDIE,moyenne_d_annee_de_construction,1982
+2016,GRAND EST,moyenne_d_annee_de_construction,1975
+2018,GRAND EST,moyenne_d_annee_de_construction,1977
+2017,GRAND EST,moyenne_d_annee_de_construction,1977
+2016,ILE DE FRANCE,moyenne_d_annee_de_construction,1976
+2018,ILE DE FRANCE,moyenne_d_annee_de_construction,1978
+2017,ILE DE FRANCE,moyenne_d_annee_de_construction,1977
+2016,BRETAGNE,moyenne_d_annee_de_construction,1988
+2018,BRETAGNE,moyenne_d_annee_de_construction,1990
+2017,BRETAGNE,moyenne_d_annee_de_construction,1989
+2016,BOURGOGNE FRANCHE COMTE,moyenne_d_annee_de_construction,1979
+2018,BOURGOGNE FRANCHE COMTE,moyenne_d_annee_de_construction,1979
+2017,BOURGOGNE FRANCHE COMTE,moyenne_d_annee_de_construction,1979
+2016,CORSE,moyenne_d_annee_de_construction,1987
+2018,CORSE,moyenne_d_annee_de_construction,1987
+2016,OCCITANIE,taux_de_pauvrete_de_la_population_en_pourcentage,16.9
+2018,OCCITANIE,taux_de_pauvrete_de_la_population_en_pourcentage,16.9
+2017,OCCITANIE,taux_de_pauvrete_de_la_population_en_pourcentage,16.9
+2016,NOUVELLE AQUITAINE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2018,NOUVELLE AQUITAINE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2017,NOUVELLE AQUITAINE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2016,AUVERGNE RHONE ALPES,taux_de_pauvrete_de_la_population_en_pourcentage,12.7
+2017,AUVERGNE RHONE ALPES,taux_de_pauvrete_de_la_population_en_pourcentage,12.7
+2018,AUVERGNE RHONE ALPES,taux_de_pauvrete_de_la_population_en_pourcentage,12.7
+2016,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_de_la_population_en_pourcentage,17.2
+2018,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_de_la_population_en_pourcentage,17.2
+2017,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_de_la_population_en_pourcentage,17.2
+2016,PAYS DE LA LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,11
+2018,PAYS DE LA LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,11
+2017,PAYS DE LA LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,11
+2016,HAUTS DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,18.3
+2018,HAUTS DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,18.3
+2017,HAUTS DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,18.3
+2016,CENTRE VAL DE LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,13.2
+2018,CENTRE VAL DE LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,13.2
+2017,CENTRE VAL DE LOIRE,taux_de_pauvrete_de_la_population_en_pourcentage,13.2
+2016,NORMANDIE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2018,NORMANDIE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2017,NORMANDIE,taux_de_pauvrete_de_la_population_en_pourcentage,13.7
+2016,GRAND EST,taux_de_pauvrete_de_la_population_en_pourcentage,14.5
+2018,GRAND EST,taux_de_pauvrete_de_la_population_en_pourcentage,14.5
+2017,GRAND EST,taux_de_pauvrete_de_la_population_en_pourcentage,14.5
+2016,ILE DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,15.7
+2018,ILE DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,15.7
+2017,ILE DE FRANCE,taux_de_pauvrete_de_la_population_en_pourcentage,15.7
+2016,BRETAGNE,taux_de_pauvrete_de_la_population_en_pourcentage,11.1
+2018,BRETAGNE,taux_de_pauvrete_de_la_population_en_pourcentage,11.1
+2017,BRETAGNE,taux_de_pauvrete_de_la_population_en_pourcentage,11.1
+2016,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_de_la_population_en_pourcentage,13.1
+2018,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_de_la_population_en_pourcentage,13.1
+2017,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_de_la_population_en_pourcentage,13.1
+2016,CORSE,taux_de_pauvrete_de_la_population_en_pourcentage,19.6
+2018,CORSE,taux_de_pauvrete_de_la_population_en_pourcentage,19.6
+2016,OCCITANIE,taux_de_pauvrete_des_locataires_en_pourcentage,30.9
+2018,OCCITANIE,taux_de_pauvrete_des_locataires_en_pourcentage,30.9
+2017,OCCITANIE,taux_de_pauvrete_des_locataires_en_pourcentage,30.9
+2016,NOUVELLE AQUITAINE,taux_de_pauvrete_des_locataires_en_pourcentage,26.2
+2018,NOUVELLE AQUITAINE,taux_de_pauvrete_des_locataires_en_pourcentage,26.2
+2017,NOUVELLE AQUITAINE,taux_de_pauvrete_des_locataires_en_pourcentage,26.2
+2016,AUVERGNE RHONE ALPES,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2017,AUVERGNE RHONE ALPES,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2018,AUVERGNE RHONE ALPES,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2016,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_des_locataires_en_pourcentage,29.4
+2018,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_des_locataires_en_pourcentage,29.4
+2017,PROVENCE ALPES COTE D AZUR,taux_de_pauvrete_des_locataires_en_pourcentage,29.4
+2016,PAYS DE LA LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2018,PAYS DE LA LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2017,PAYS DE LA LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,24.9
+2016,HAUTS DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,34.5
+2018,HAUTS DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,34.5
+2017,HAUTS DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,34.5
+2016,CENTRE VAL DE LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,28
+2018,CENTRE VAL DE LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,28
+2017,CENTRE VAL DE LOIRE,taux_de_pauvrete_des_locataires_en_pourcentage,28
+2016,NORMANDIE,taux_de_pauvrete_des_locataires_en_pourcentage,27.1
+2018,NORMANDIE,taux_de_pauvrete_des_locataires_en_pourcentage,27.1
+2017,NORMANDIE,taux_de_pauvrete_des_locataires_en_pourcentage,27.1
+2016,GRAND EST,taux_de_pauvrete_des_locataires_en_pourcentage,28.6
+2018,GRAND EST,taux_de_pauvrete_des_locataires_en_pourcentage,28.6
+2017,GRAND EST,taux_de_pauvrete_des_locataires_en_pourcentage,28.6
+2016,ILE DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,25.7
+2018,ILE DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,25.7
+2017,ILE DE FRANCE,taux_de_pauvrete_des_locataires_en_pourcentage,25.7
+2016,BRETAGNE,taux_de_pauvrete_des_locataires_en_pourcentage,24.7
+2018,BRETAGNE,taux_de_pauvrete_des_locataires_en_pourcentage,24.7
+2017,BRETAGNE,taux_de_pauvrete_des_locataires_en_pourcentage,24.7
+2016,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_des_locataires_en_pourcentage,27
+2018,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_des_locataires_en_pourcentage,27
+2017,BOURGOGNE FRANCHE COMTE,taux_de_pauvrete_des_locataires_en_pourcentage,27
+2016,CORSE,taux_de_pauvrete_des_locataires_en_pourcentage,29.9
+2018,CORSE,taux_de_pauvrete_des_locataires_en_pourcentage,29.9
+2016,OCCITANIE,revenu_median_en_euros,19905
+2018,OCCITANIE,revenu_median_en_euros,19905
+2017,OCCITANIE,revenu_median_en_euros,19905
+2016,NOUVELLE AQUITAINE,revenu_median_en_euros,20370
+2018,NOUVELLE AQUITAINE,revenu_median_en_euros,20370
+2017,NOUVELLE AQUITAINE,revenu_median_en_euros,20370
+2016,AUVERGNE RHONE ALPES,revenu_median_en_euros,21478
+2017,AUVERGNE RHONE ALPES,revenu_median_en_euros,21478
+2018,AUVERGNE RHONE ALPES,revenu_median_en_euros,21478
+2016,PROVENCE ALPES COTE D AZUR,revenu_median_en_euros,20525
+2018,PROVENCE ALPES COTE D AZUR,revenu_median_en_euros,20525
+2017,PROVENCE ALPES COTE D AZUR,revenu_median_en_euros,20525
+2016,PAYS DE LA LOIRE,revenu_median_en_euros,20642
+2018,PAYS DE LA LOIRE,revenu_median_en_euros,20642
+2017,PAYS DE LA LOIRE,revenu_median_en_euros,20642
+2016,HAUTS DE FRANCE,revenu_median_en_euros,19249
+2018,HAUTS DE FRANCE,revenu_median_en_euros,19249
+2017,HAUTS DE FRANCE,revenu_median_en_euros,19249
+2016,CENTRE VAL DE LOIRE,revenu_median_en_euros,20658
+2018,CENTRE VAL DE LOIRE,revenu_median_en_euros,20658
+2017,CENTRE VAL DE LOIRE,revenu_median_en_euros,20658
+2016,NORMANDIE,revenu_median_en_euros,20301
+2018,NORMANDIE,revenu_median_en_euros,20301
+2017,NORMANDIE,revenu_median_en_euros,20301
+2016,GRAND EST,revenu_median_en_euros,20751
+2018,GRAND EST,revenu_median_en_euros,20751
+2017,GRAND EST,revenu_median_en_euros,20751
+2016,ILE DE FRANCE,revenu_median_en_euros,22906
+2018,ILE DE FRANCE,revenu_median_en_euros,22906
+2017,ILE DE FRANCE,revenu_median_en_euros,22906
+2016,BRETAGNE,revenu_median_en_euros,20742
+2018,BRETAGNE,revenu_median_en_euros,20742
+2017,BRETAGNE,revenu_median_en_euros,20742
+2016,BOURGOGNE FRANCHE COMTE,revenu_median_en_euros,20579
+2018,BOURGOGNE FRANCHE COMTE,revenu_median_en_euros,20579
+2017,BOURGOGNE FRANCHE COMTE,revenu_median_en_euros,20579
+2016,CORSE,revenu_median_en_euros,19519
+2018,CORSE,revenu_median_en_euros,19519
